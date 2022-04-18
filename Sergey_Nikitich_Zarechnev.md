@@ -105,6 +105,12 @@ school](https://sf.misis.ru/abitur/pre-university-training/programmers-school)
 * Python
 * Java
 * SQL
+* Linux (Arch Linux)
+* Linux kernel
+* Systemd unit management
+* Package management
+* Cross-platform development
+* SDL2/OpenGL
 
 ### Driving experience
 
