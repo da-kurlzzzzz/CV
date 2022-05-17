@@ -19,6 +19,7 @@ Moscow region, Citizenship: Russia
 * Junior developer
 * IT, Internet
 * Software development
+* DevOps engineer
 
 ### 10000 USD/year
 
