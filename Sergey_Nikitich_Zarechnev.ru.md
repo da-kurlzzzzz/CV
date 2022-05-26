@@ -6,7 +6,7 @@
 
 ## Контакты:
 
-1. [Мобильный](тел.:+7-958-634-0407) (`+7-958-634-0407`)
+1. [Мобильный](tel:+7-958-634-0407) (`+7-958-634-0407`)
 2. [Telegram](https://t.me/da_kurlzzzzz) (`da_kurlzzzzz`)
 3. [Электронная почта](mailto:da_kurlzzzzz@mail.ru) (`da_kurlzzzzz@mail.ru`)
 
