@@ -20,6 +20,7 @@ Moscow region, Citizenship: Russia
 * IT, Internet
 * Software development
 * DevOps engineer
+* Computer science teacher
 
 ### 10000 USD/year
 
@@ -62,6 +63,18 @@ Working schedule is limited due to studying till June 2023
 * IT Specialist
 * Work in a team of programmers involved in the development and support of
   software for technical solutions produced by the company.
+
+### February 2018 - Now (Not official)
+
+[Ассоциация репетиторов](https://repetit.ru)
+
+* Private teaching
+* Teaching of children aged 12 - 18
+* Teaching of university students
+* Computer Science
+* Mathematics
+* Physics
+* Russian middle school exams (OGE, EGE)
 
 ## Education
 
@@ -121,6 +134,6 @@ Sociable, able to quickly learn new skills. Experience working in a team in
 software development. Experience in teaching students of schools and
 universities programming languages (C, C++, Python, Java) as well as computer
 science. Have experience in writing programs for physical modeling and test
-cases for them
+cases for them.
 
 <!-- vim:set tw=78: -->
