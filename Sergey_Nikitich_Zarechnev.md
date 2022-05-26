@@ -76,9 +76,7 @@ Incomplete undergraduate
 
 ### [C++ programming](https://www.specialist.ru) 2017
 
-### [Computer programming school](https://sf.misis.ru/abitur/pre-university-training/programmers-school)
-
-2015
+### [Computer programming school](https://sf.misis.ru/abitur/pre-university-training/programmers-school) 2015
 
 ## Key skills
 
