@@ -104,6 +104,7 @@ between distant cities. Experienced in driving in different circumstances.
 
 ### Secondary skills
 
+* Algorithms
 * Python
 * Linux (Arch Linux)
 * Linux kernel
@@ -112,6 +113,7 @@ between distant cities. Experienced in driving in different circumstances.
 * Cross-platform development
 * Bash scripting and usage
 * Vim text editing
+* API usage
 * Package management
 * Systemd unit management
 
