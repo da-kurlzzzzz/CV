@@ -127,7 +127,7 @@ Moscow region, Citizenship: Russia
 * Linux System administrator
 * Computer science teacher
 
-* Goal salary `10000 USD/year`
+Goal salary `10000 USD/year`
 
 Working schedule is limited due to studying till June 2023
 
