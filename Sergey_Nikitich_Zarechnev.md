@@ -1,15 +1,20 @@
+<!-- translation start -->
 # Sergey Nikitich Zarechnev
 
 Male, age 22, born October 19th 1999
+<!-- translation end -->
 
 ![Photo](face.jpeg)
 
+<!-- translation start -->
 ## Contacts:
+<!-- translation end -->
 
 1. [Mobile](tel:+7-958-634-0407) (`+7-958-634-0407`)
 2. [Telegram](https://t.me/da_kurlzzzzz) (`da_kurlzzzzz`)
 3. [E-Mail](mailto:da_kurlzzzzz@mail.ru) (`da_kurlzzzzz@mail.ru`)
 
+<!-- translation start -->
 ## Personal Profile
 
 Sociable, able to quickly learn new skills. Experience working in a team
@@ -22,18 +27,22 @@ machines.
 ## Employment Experience: 1 year 4 months + private teaching since 2018
 
 ### July 2019 - August 2019 (2 months)
+<!-- translation end -->
 
 [ИОН цифровой центр](https://ноу-хау.рф/) Moscow
 
+<!-- translation start -->
 Worked as a consulting manager in retail network specializing in personal
 electronic devices. Successfully completed introductory course and secured
 multiple deals.
 
 ### February 2019 - June 2019 (5 months)
+<!-- translation end -->
 
 [Московский физико-технический институт (Государственный
 университет)](https://mipt.ru) Moscow region
 
+<!-- translation start -->
 Worked as a junior researcher, video stream operator and content producer for
 Physics department. Successfully set up additional studio with light/noise
 isolation for streaming and recording lectures. As a result, acquired new
@@ -41,9 +50,11 @@ clients from Mathematics department and our team became sole
 streaming/recording studio for both major Institute departments.
 
 ### August 2017 - April 2018 (9 months)
+<!-- translation end -->
 
 [ЗАО "КБ "Проминжиниринг"](https://www.tpstrogino.ru/residents/84) Moscow
 
+<!-- translation start -->
 Worked as junior IT specialist mainly concerned with design and implementation
 of subsystems in multi-node early reaction system. Received multi-profile
 training in Computer Science, C and C++ programming languages. Participated in
@@ -51,9 +62,11 @@ development of new generation radiation sensors as well as implementation of
 API for them and integration into existing UI.
 
 ### February 2018 - Now
+<!-- translation end -->
 
 [Ассоциация репетиторов](https://repetit.ru)
 
+<!-- translation start -->
 Have been working as a private tutor specializing in Computer Science, Physics
 and Mathematics. Prepared multiple students for Russian middle school exams as
 well as university students for exams in Computer Science (both general and
@@ -76,15 +89,19 @@ in relevant disciplines:
 Planned end of education in June 2023.
 
 ## Training and courses
+<!-- translation end -->
 
 ### [C++ programming](https://www.specialist.ru) 2017
 
+<!-- translation start -->
 A course spanning deep C++ concepts. Conducted thorough research of STL while
 reimplementing multiple C++ containers from scratch. Studied and practiced
 high-level usage of multiple STL libraries.
+<!-- translation end -->
 
 ### [Computer programming school](https://sf.misis.ru/abitur/pre-university-training/programmers-school) 2015
 
+<!-- translation start -->
 Multiple year course which gave me great understanding of multiple concepts
 regarding Software Engineering, Computer Science, Applied Mathematics and
 Computer Network Architecture.
@@ -103,6 +120,7 @@ Category B driving license with 2 years of experience, multiple voyages
 between distant cities. Experienced in driving in different circumstances.
 
 ### Secondary skills
+<!-- translation end -->
 
 * Algorithms
 * Python
@@ -117,6 +135,7 @@ between distant cities. Experienced in driving in different circumstances.
 * Package management
 * Systemd unit management
 
+<!-- translation start -->
 ## Residence
 
 Moscow region, Citizenship: Russia
@@ -130,5 +149,6 @@ Moscow region, Citizenship: Russia
 Goal salary `10000 USD/year`
 
 Working schedule is limited due to studying till June 2023
+<!-- translation end -->
 
 <!-- vim:set tw=78: -->
