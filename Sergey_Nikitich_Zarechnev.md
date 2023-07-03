@@ -1,7 +1,7 @@
 <!-- translation start -->
 # Sergey Nikitich Zarechnev
 
-Male, age 22, born October 19th 1999
+Male, age 23, born October 19th 1999
 <!-- translation end -->
 
 ![Photo](face.jpeg)
@@ -17,7 +17,7 @@ Male, age 22, born October 19th 1999
 <!-- translation start -->
 ## Personal Profile
 
-Sociable, able to quickly learn new skills. Experience working in a team specializing in software development. Experience teaching programming languages (C, C++, Python) as well as computer science to students of schools and universities. Have experience writing programs for physical modeling and test cases for them. Managed multiple servers running on Linux machines.
+Sociable, able to quickly learn new skills. Experience working in a team specializing in software development. Experience teaching programming languages (C, C++, Python) as well as computer science to students of schools and universities. Experience writing programs for physical modeling and test cases for them. Managed multiple servers running on Linux machines, including a personal server with nginx (website hosting), OpenSSH (remote control and filesystem tunneling), taskserver (timetable management), syncthing (file synchronization) with minimal downtime.
 
 ## Employment Experience: 1 year 4 months + private teaching since 2018
 
@@ -51,7 +51,7 @@ Worked as junior IT specialist mainly concerned with design and implementation o
 [Ассоциация репетиторов](https://repetit.ru)
 
 <!-- translation start -->
-Have been working as a private tutor specializing in Computer Science, Physics and Mathematics. Prepared multiple students for Russian middle school exams as well as university students for exams in Computer Science (both general and applied to Software Engineering). Have been developing individual education programs for all clients which got me to the top 5% of tutors in Moscow.
+Have been working as a private tutor specializing in Computer Science, Physics and Mathematics. Prepared multiple students for Russian middle school exams as well as university students for exams in Computer Science (both general and applied to Software Engineering). Have been developing individual education programs for all clients which got me to the top 5% of tutors in Moscow. Overall, the experience helped me greatly improve soft skills such as communication, time management, motivation, negotiation.
 
 ## Education
 
@@ -63,7 +63,7 @@ A student of Moscow Institute of Physics and Technology in Moscow, specifically 
 * UNIX operating systems 9/10
 * Object Oriented Programming 10/10
 
-Planned end of education in June 2023.
+Planned end of education in June 2024.
 
 ## Training and courses
 <!-- translation end -->
@@ -84,7 +84,7 @@ Multiple year course which gave me great understanding of multiple concepts rega
 ### Languages
 
 * Russian - Native
-* English - B2 - Upper-intermediate
+* English - C1 - Advanced
 * Spanish - A1 - Beginner
 
 ### Driving experience
@@ -95,13 +95,18 @@ Category B driving license with 2 years of experience, multiple voyages between 
 <!-- translation end -->
 
 * Algorithms
+* Data structures
 * Python
 * Linux (Arch Linux)
 * Linux kernel
+* Git
 * SDL2/OpenGL
+* Performance optimization
 * Mathematical modelling
 * Cross-platform development
+* Debugging and troubleshooting
 * Bash scripting and usage
+* Writing documentation
 * Vim text editing
 * API usage
 * Package management
@@ -120,7 +125,7 @@ Moscow region, Citizenship: Russia
 
 Goal salary `10000 USD/year`
 
-Working schedule is limited due to studying till June 2023
+Working schedule is limited due to studying till June 2024
 <!-- translation end -->
 
 <!-- vim:set tw=78: -->
