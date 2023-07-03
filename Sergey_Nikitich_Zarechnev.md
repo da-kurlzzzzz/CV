@@ -40,7 +40,7 @@ Worked as a junior researcher, video stream operator and content producer for Ph
 ### August 2017 - April 2018 (9 months)
 <!-- translation end -->
 
-[ЗАО "КБ "Проминжиниринг"](https://www.tpstrogino.ru/residents/84) Moscow
+[ЗАО "КБ "Проминжиниринг"](https://kbpe.ru/) Moscow
 
 <!-- translation start -->
 Worked as junior IT specialist mainly concerned with design and implementation of subsystems in multi-node early reaction system. Received multi-profile training in Computer Science, C and C++ programming languages. Participated in development of new generation radiation sensors as well as implementation of API for them and integration into existing UI.
