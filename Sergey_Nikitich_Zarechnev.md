@@ -1,7 +1,7 @@
 <!-- translation start -->
 # Sergey Nikitich Zarechnev
 
-Male, age 23, born October 19th 1999
+Male, born October 19th 1999
 <!-- translation end -->
 
 ![Photo](face.jpeg)
