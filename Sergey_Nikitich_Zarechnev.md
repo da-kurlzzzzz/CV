@@ -52,7 +52,7 @@ Worked as junior IT specialist mainly concerned with design and implementation o
 [Ассоциация репетиторов](https://repetit.ru)
 
 <!-- translation start -->
-Have been working as a private tutor specializing in Computer Science, Physics and Mathematics. Prepared multiple students for Russian middle school exams as well as university students for exams in Computer Science (both general and applied to Software Engineering). Have been developing individual education programs for all clients which got me to the top 5% of tutors in Moscow. Overall, the experience helped me greatly improve soft skills such as communication, time management, motivation, negotiation.
+Have been working as a private tutor specializing in Computer Science, Physics and Mathematics. Prepared multiple Russian students for middle school exams as well as university students for exams in Computer Science (both general and applied to Software Engineering). Have been developing individual education programs for all clients which got me to the top 5% of tutors in Moscow. Overall, the experience helped me greatly improve soft skills such as communication, time management, motivation, negotiation.
 
 ## Education
 
